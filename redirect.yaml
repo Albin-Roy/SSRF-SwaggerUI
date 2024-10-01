@@ -22,8 +22,8 @@ paths:
         '200':
           description: No response was specified
       tags:
-      - Mathis Pais De Sousa
-      operationId: findAccounts
+      - SSRF Test
+      operationId: test
       summary: this is example text
   "/exploited_by_valuementor":
     delete:

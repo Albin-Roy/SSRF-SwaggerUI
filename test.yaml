@@ -3,7 +3,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    Ceci est l'ancienne documentation de l'API, retrouvez la nouvelle version <a href="https://evil.com">ici</a>
+    Vulnerable swagger UI <a href="https://evil.com">link</a>
 
   version: production
 basePath: https://target.com

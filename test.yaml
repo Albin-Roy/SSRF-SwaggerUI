@@ -22,7 +22,7 @@ paths:
         '200':
           description: No response was specified
       tags:
-      - SSRF Test
+      - Test
       operationId: findAccounts
       summary: this is example text
   "/exploited_by_ValueMentor":

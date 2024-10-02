@@ -16,7 +16,7 @@ consumes:
 security:
 - basicAuth: []
 paths:
-  "/test":
+  "/testt":
     get:
       responses:
         '200':
